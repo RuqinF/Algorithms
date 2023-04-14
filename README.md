@@ -1,2 +1,2 @@
 # Algorithms
-some easy code about algorithms
+Some easy code about algorithms
